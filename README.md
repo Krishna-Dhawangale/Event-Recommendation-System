@@ -37,5 +37,4 @@ The recommendation engine follows a **Content-Based Filtering** approach:
 3. **Similarity Score**: We compute the **Cosine Similarity** between the user vector and all event vectors.
 4. **Ranking**: Events are ranked by their score, ensuring the most contextually relevant events are shown first.
 
----
-Created by Antigravity AI for a professional resume portfolio.
+
